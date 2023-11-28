@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  background-image: url('https://e0.pxfuel.com/wallpapers/762/238/desktop-wallpaper-dark-space.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+
+.navbar-custom {
+  border-bottom: 2px solid red;
+
+}
+
+.text-container {
+  background-color: rgba(0, 0, 0, 0.7); 
+  padding: 20px; 
+  border-radius: 8px; 
+}
